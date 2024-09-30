@@ -1,0 +1,18 @@
+{
+  "token": "token here",
+  "color": "#0096f3",
+  "developerGuild": "guild id",
+  "supportServer": "https://discord.gg/link",
+  "activityInterval": 5,
+  "activities": [
+    "Created by gin_taiyo",
+    "Judgement from The Oratrice Mecanique d'Analyse Cardinale",
+    "You will be punished!",
+    "Greetings! I am the Chief Justice or Iudex of Court of Fontaine",
+    "Water comes in many flavors to the discerning palate.",
+    "Mondstadt's water is crisp and pure",
+    "Liyue has an enduring aftertaste",
+    "In Inazuma, the water possesses a depth of flavor unlike any other",
+    "Sumeru water, meanwhile, has a rich and complex flavor profile, but it must be savored patiently to fully appreciate it."
+  ]
+}
