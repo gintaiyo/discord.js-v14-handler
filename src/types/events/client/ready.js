@@ -7,7 +7,7 @@ module.exports = {
      * @param { Client } client
      */
     async execute(client) {
-        console.log(`Logged in as ${client.user.tag}!`);
+        console.log(`Logged in as ${client.user.tag}! Created by gin_taiyo`);
 
         updateActivity(client, client.config.activityInterval);
     }
