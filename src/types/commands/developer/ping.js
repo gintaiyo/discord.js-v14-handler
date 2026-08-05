@@ -11,6 +11,6 @@ module.exports = {
      * @param {Client} client 
      */
     async execute(interaction, client) {
-        interaction.reply(`🏓 **PONG! Api Ping is:** \`${client.ws.ping}ms\``)
+        interaction.reply(`🏓 **PONG! Bot\'s Api Ping is:** \`${client.ws.ping}ms\``)
     }
 }
