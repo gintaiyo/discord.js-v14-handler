@@ -21,9 +21,4 @@ If you need to add MongoDB then you can dm
 ## 📖 Creator
 [![Discord Presence](https://lanyard.cnrad.dev/api/758977035824922624)](https://discord.com/users/758977035824922624)
 
-## 🤖 My Bot
-**Itachi Bot** is a verified discord bot. It is a multipurpose bot.
-Created by gin_taiyo it would be lovely if you add Itachi Bot.
-
-[Invite from here](https://discord.com/oauth2/authorize?client_id=893357016196714506&permissions=8&scope=applications.commands%20bot)
 
