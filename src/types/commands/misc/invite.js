@@ -22,8 +22,7 @@ module.exports = {
         
         const roll = [
             "Thank you for permitting— No, inviting me to join you.",
-            "The pleasure is all mine.",
-            " Perhaps we could take a walk by a riverbank or somewhere similarly fluvial."
+            "The pleasure is all mine."
         ];
         const rick = roll[Math.floor(Math.random() * roll.length)];
         
