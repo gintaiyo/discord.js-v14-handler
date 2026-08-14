@@ -22,3 +22,4 @@ If you need to add MongoDB then you can dm
 [![Discord Presence](https://lanyard.cnrad.dev/api/758977035824922624)](https://discord.com/users/758977035824922624)
 
 
+# I'll soon drop new version this might feel outdated
